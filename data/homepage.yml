@@ -1,0 +1,152 @@
+head:
+  title: "JOSE GUERRA VIDES"
+
+# showcase
+showcase:
+  enable: true
+  title: "HOLA,mucho gusto soy Jose Luis Guerra Vides."
+  subtitle: "PADRE DE FAMILIA ,TRABAJADOR Y ESTUDIANTE."
+  description: "Tecnico en refrigeracion industrial y estudiante de ingenieria electronica ."
+  image:
+    x: "img/showcase/new.gif"
+    _2x: "img/showcase/new.gif"
+  imageMobile:
+    x: "img/showcase/new.gif"
+    _2x: "img/showcase/new.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contacto JOSE GUERRA"
+    URL: "mailto:joseaurie@gmail.com"
+
+  socialLinks:
+    
+    - icon: "youtube"
+      URL: "https://www.youtube.com"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com"
+
+
+# about
+about:
+  enable: true
+  title: "¿Quien soy?"
+  content: 
+    <p class="lead">
+    <strong>persona apasionada por el trabajo en equipo ,el constante aprendizaje.</strong> Entregado a mi familia considerandolo como el motor de mi vida
+    . 
+    </p>
+    <p class="lead">
+    <strong>Mi area.</strong> tecnico en refrigeracion egresado del SENA, enfocado mediante mi experiencia de 20 años a la refrigeracion industrial. desempeñandome en este cargo durante 14 en la empresa DAABON donde he enriquecido mi conocimiento en equipos como lo son chiller,cuartofrio,compresores de tornillo,reciprocante y de piston,presto siempre a trabajar con las partes interesadas y tomar mejores decisiones para cada uno de los problemas en planta que se nos presenten.
+    </p>
+ 
+  image:
+    x: "img/who-am-i/jose1.jpeg"
+    _2x: "img/who-am-i/jose1.jpeg"
+
+# experience
+experience:
+  enable: true
+  title: "Experiencia"
+  description: "cuento con la experiencia necesaria calificada por mas de 20 años en el area de la refrigeracion y 15 en la industria ,tengo la capacidad de adaptarme a cualquier ambiente laboral,trabajando con equipos desde aires domestiscos como MINI SPLIT hata equipos industriales como CHILLER ."
+  
+    
+  items:
+    - title: "Auxiliar de mantenimiento"
+      company: "SERVIPARAMO SAS"
+      duration: "2004-2006"
+
+    - title: "Tecnico de mantenimiento"
+      company: "Carrefour"
+      duration: "2006 - 2009"
+      
+    - title: "Tecnico de mantenimiento"
+      company: "Aires LINCON"
+      duration: "2009 - 2010"
+
+    - title: "Tecnico de Refrigeracion"
+      company: "C.I Tequendama GRUPO DAABON"
+      duration: "2010 - 2024"
+      
+  
+# education
+education:
+  enable: true
+  title: "ESTUDIOS"
+  items:
+    - university: "SENA"
+      year: "2002-2004"
+      degree: "Tecnico en refrigeracion domestica comercial e industrial"
+
+    - university: "IDEA"
+      year: "2014-2015"
+      degree: "tenco en electricidad y electronica industrial"
+      
+    - university: "UNIVERSIDAD DEL MAGDALENA"
+      year: "2016-hasta la fecha"
+      degree: "ingenieria electronica"
+
+
+# Referencias
+testimonial:
+  enable: true
+  title: "Referencias"
+  items:
+  
+    - name: "Alfredo Noriega, ING"
+      position: "Ingeniero electronico UNIMAG,Santa Marta (Magd)"
+      content: "Excelente persona,amigo y compañero de trabajo,compartimos en las asignaturas durante el periodo universitario y en el ambito laboral!"
+      image:
+        x: "img/testimonials/alfredo noriega.jpeg"
+        _2x: "img/testimonials/alfredo noriega.jpeg"
+        
+    - name: "Santiago Pimienta Torres"
+      position: "Trabajador independiente,Riohacha (Guajira)"
+      content: "excelente compañero de trabajo ,compartimos en lo personal y lo laboral."
+      image:
+        x: "img/testimonials/santiago pimienta.jpeg"
+        _2x: "img/testimonials/santiago pimienta.jpeg"
+
+    - name: "Juan Ropero Duran"
+      position: "Estudiante, Madrid España"
+      content: "Durante mi estadia en colombia y siendo estudiante en la universidad del magdalena tube la oportunidad de conocer y doy fe que es una muy buena persona ."
+      image:
+        x: "img/testimonials/juan ropero duran.jpeg"
+        _2x: "img/testimonials/juan ropero duran.jpeg"
+
+# contact
+contact:
+  enable: true
+  title: "Contacto Jose Guerra Vides"
+    
+  image:
+    x: "img/who-am-i/jose1.jpeg"
+    _2x: "img/who-am-i/jose1.jpeg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:joseaurie@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "3007224112"
+  email:
+    title: "Email"
+    email: '<a href="mailto:your-email@gmail.com">joseaurie@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Urb la rosalia mz-K casa-10, Barrio Tres puentes"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
